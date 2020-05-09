@@ -13,7 +13,7 @@ public class testUpdate {
     @Test
     public void testUpdate(){
         Disciple disciple = new Disciple();
-        disciple.setId(30000001);
+        disciple.setId(30000492);
         disciple.setMajor_subject("无限奥义循环 X 10086");
         disciple.setCome_from("U.K");
 
